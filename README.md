@@ -1,4 +1,4 @@
-# AI Mock Interviewer
+# PrepWIse - AI Mock Interviewer
 
 PrepWise is an AI Mock Interviewer is a web application built to help users practice interviews in a realistic and interactive way. The platform generates interview questions, conducts mock interview sessions, and provides feedback to help improve communication and technical skills.
 
